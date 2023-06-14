@@ -1,3 +1,4 @@
+package Homework2;
 import java.io.*;
 
 public class lib {
